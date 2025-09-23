@@ -5,9 +5,6 @@
 🌱 Currently seeking entry-level opportunities to kickstart my career in tech  
 
 ---
-## 🛠️ Leetcode Status
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={herejustforlearning}&animated=true" alt="LeetCode Badges" />
----
 
 ## 🚀 About Me  
 - 🔭 I’m currently working on: **IntelliCRM** – an AI-powered multi-tenant SaaS CRM platform  
