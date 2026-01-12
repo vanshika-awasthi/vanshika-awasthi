@@ -7,22 +7,21 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on: **IntelliCRM** – an AI-powered multi-tenant SaaS CRM platform  
-- 🌱 I’m currently learning: **Advanced AWS Services, CI/CD Pipelines, and Generative AI concepts**  
-- 👯 I’m looking to collaborate on: **Full-stack web apps, Cloud deployments, and ML-powered solutions**  
-- 🤔 I’m looking for help with: **Exploring scalable microservices architectures**  
-- 💬 Ask me about: **Java, Full Stack Development, Cloud Deployment Strategies (AWS), and ML models**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vanshikaawasthi) | [X](https://x.com/vanshika_aw) | 📧 awasthi.vanshika21@gmail.com  
+- 🔭 I’m currently working on: Real-time chat web application using Java (Spring Boot), WebSocket, React, Docker, and AWS. 
+- 🌱 I’m currently learning: **Java & Spring Boot, DSA, Microsoft Azure and system design basics.**  
+- 👯 I’m looking to collaborate on: **MERN full-stack apps, cloud-deployed and real-time systems.**   
+- 💬 Ask me about: **Java, MERN stack, REST APIs, AWS/Azure**  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vanshikaawasthi) | [X](https://x.com/vanshika_aw) | 📧 vanshikaawasthi21.work@gmail.com  
 - 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I love sketching and enjoy audiobooks & podcasts on **behavioral psychology** 🎧  
+- ⚡ Fun fact: Love sketching/painting and tech podcasts 🎧
 
 ---
 
 ## 🛠️ Skills & Tools  
-- **Programming & Backend:** Java, Python, Node.js, Spring Boot, Flask, REST APIs  
-- **Frontend & Frameworks:** React.js, Next.js, TypeScript, Tailwind CSS  
-- **Databases:** MySQL, MongoDB, Prisma ORM  
-- **Cloud & DevOps:** AWS (EC2, RDS, Amplify, CI/CD), Docker, Kubernetes, Jenkins, Git  
+- **Programming & Backend:** Java, Python, Node, Spring Boot, Flask, REST APIs  
+- **Frontend & Frameworks:** React, Next.js, TypeScript, Tailwind CSS  
+- **Databases:** MySQL, MongoDB
+- **Cloud & DevOps:** Amazon Web Services, Microsoft Azure, Docker (basics) Git  
 - **Machine Learning:** Scikit-learn, XGBoost, Pandas, NumPy, Matplotlib  
 
 ---
