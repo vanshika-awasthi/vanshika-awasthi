@@ -41,8 +41,7 @@
 
 ---
 
-## 🏆 Certifications  
-- AWS Cloud Practitioner – Amazon Web Services (2025)  
+## 🏆 Certifications 
 - SQL on Oracle Cloud – Oracle (2025)  
 - GenAI with Watson – IBM (2025)  
 - The Bits and Bytes of Computer Networking – Google (2023)  
