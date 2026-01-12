@@ -50,7 +50,7 @@
 
 ## 🎨 Fun Facts & Hobbies  
 - ✏️ Sketching & creative art  
-- 🎧 Audiobooks & podcasts on **behavioral psychology**  
+- 🎧 Audiobooks & podcasts on  **tech** and **behavioral psychology**  
 - 🧩 Enjoy solving problem-solving & algorithm challenges  
 
 ---
