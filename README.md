@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 - 🔭 I’m currently working on: Real-time chat web application using Java (Spring Boot), WebSocket, React, Docker, and AWS. 
-- 🌱 I’m currently learning: **Java & Spring Boot, DSA, Microsoft Azure and system design basics.**  
+- 🌱 I’m currently learning: **AWS, Microsoft Azure and system design**  
 - 👯 I’m looking to collaborate on: **MERN full-stack apps, cloud-deployed and real-time systems.**   
 - 💬 Ask me about: **Java, MERN stack, REST APIs, AWS/Azure**  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vanshikaawasthi) | [X](https://x.com/vanshika_aw) | 📧 vanshikaawasthi21.work@gmail.com  
