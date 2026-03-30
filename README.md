@@ -18,11 +18,11 @@
 ---
 
 ## 🛠️ Skills & Tools  
-- **Programming & Backend:** Java, Python, Node, Spring Boot, Flask, REST APIs  
+- **Programming & Backend:** Java, Python, Node, Express, Flask, REST APIs  
 - **Frontend & Frameworks:** React, Next.js, TypeScript, Tailwind CSS  
 - **Databases:** MySQL, MongoDB
-- **Cloud & DevOps:** Amazon Web Services, Microsoft Azure, Docker (basics) Git  
-- **Machine Learning:** Scikit-learn, XGBoost, Pandas, NumPy, Matplotlib  
+- **Cloud & DevOps:** Amazon Web Services, Microsoft Azure, Git  
+- **Machine Learning:** Scikit-learn, Pandas, NumPy, Matplotlib  
 
 ---
 
@@ -34,7 +34,7 @@
 ---
 
 ## 📌 Other Projects  
-- [**IntelliCRM**](https://github.com/vanshika-awasthi/intelliCRMproject): AI-powered SaaS CRM with lead management, pipeline tracking and task management
+- [**IntelliCRM**](https://github.com/vanshika-awasthi/intellicrm-project): AI-powered SaaS CRM with lead management, pipeline tracking and task management
 - [**bfhApp**](https://github.com/vanshika-awasthi/bfhApp): Application focused on user experience and backend integration  
 - [**AI Quotev**](https://github.com/vanshika-awasthi/aiquotevproject): AI-powered quiz generator with OpenAI 
 - [**BeatWell**](https://github.com/vanshika-awasthi/beatwell-project): Heart attack risk predictor using XGBoost & Flask  
@@ -42,6 +42,7 @@
 ---
 
 ## 🏆 Certifications 
+- Azure Fundamentals (AZ-900) - Microsoft (2026)
 - SQL on Oracle Cloud – Oracle (2025)  
 - GenAI with Watson – IBM (2025)  
 - The Bits and Bytes of Computer Networking – Google (2023)  
@@ -51,7 +52,7 @@
 ## 🎨 Fun Facts & Hobbies  
 - ✏️ Sketching & creative art  
 - 🎧 Audiobooks & podcasts on  **tech** and **behavioral psychology**  
-- 🧩 Enjoy solving problem-solving & algorithm challenges  
+- 🧩 Team sports like basketball and badminton
 
 ---
 
